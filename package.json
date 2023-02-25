@@ -1,0 +1,23 @@
+{
+  "name": "corona-ts",
+  "version": "1.0.0",
+  "description": "0. 자바스크립트 파일에 JSDoc으로 타입 시스템 입히기\r 1. 타입스크립트 기본 환경 구성\r     - npm 초기화\r     - 타입스크립트 라이브러리 설치\r     - 타입스크립트 설정 파일 생성 및 기본 값 추가",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghdtjgus76/corona-status-board-converting-js-to-ts-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghdtjgus76/corona-status-board-converting-js-to-ts-/issues"
+  },
+  "homepage": "https://github.com/ghdtjgus76/corona-status-board-converting-js-to-ts-#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
