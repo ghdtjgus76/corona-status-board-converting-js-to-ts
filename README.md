@@ -15,10 +15,10 @@
 3. 프로젝트 환경 구성
     - babel, eslint, prettier 등의 환경 설정
 4. 외부 라이브러리 모듈화
+5. 'strict' 옵션 추가 후 타입 정의
 
 ## 참고 자료
 - [존스 홉킨스 코로나 현황] 
 (https://www.arcgis.com/apps/dashboards/index.html#/bda7594740fd40299423467b48e9ecf6)
 - [Postman API] 
 (https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#00030720-fae3-4c72-8aea-ad01ba17adf8)
-
