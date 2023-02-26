@@ -1,4 +1,4 @@
-
+import axios from 'axios';
 
 // utils
 function $(selector: string): Element {
